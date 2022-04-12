@@ -1,9 +1,23 @@
-/*This source code copyrighted by Lazy Foo' Productions (2004-2013)
-and may not be redistributed without written permission.*/
-//Version: 001
+/**
+ * @file LUtil.cpp
+ * @author zk (zk@domain.com)
+ * @brief 
+ * @version 0.1
+ * @date 2022-04-12
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 
 #include "LUtil.h"
 
+
+/**
+ * @brief 
+ * 
+ * @return true 
+ * @return false 
+ */
 bool initGL()
 {
     //Initialize Projection Matrix
@@ -28,11 +42,19 @@ bool initGL()
     return true;
 }
 
+/**
+ * @brief 
+ * 
+ */
 void update()
 {
 
 }
 
+/**
+ * @brief 
+ * 
+ */
 void render()
 {
     //Clear color buffer

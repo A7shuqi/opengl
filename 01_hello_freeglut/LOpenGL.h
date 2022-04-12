@@ -1,9 +1,16 @@
-/*This source code copyrighted by Lazy Foo' Productions (2004-2013)
-and may not be redistributed without written permission.*/
-//Version: 001
+/**
+ * @file        LOpenGL.h
+ * @author zk (zk@domain.com)
+ * @brief 
+ * @version 0.1
+ * @date 2022-04-12
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 
-#ifndef  LOPENGL_H
-#define LOPENGL_H
+#ifndef  LOPING_H
+#define LOPING_H
 
 #include <GL/freeglut.h>
 #include <GL/gl.h>
