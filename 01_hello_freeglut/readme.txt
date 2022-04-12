@@ -9,6 +9,6 @@ Windows:
 OpenGL32
 freeglut
 
-*nix:
+Linux:
 GL
 freeglut
